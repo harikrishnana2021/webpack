@@ -1,4 +1,6 @@
 # Examples
+webpack's main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset. The following are the examples that can be made using webpack .
+
 ## Aggressive Merging
 [aggressive-merging](aggressive-merging)
 
